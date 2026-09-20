@@ -52,7 +52,7 @@
 
 - 🔭 Building out my portfolio & sharpening backend architecture skills
 - 🎓 CS graduate, Al Akhawayn University (Computer Systems specialization)
-- 🗣️ English (Fluent, TOEFL 86) · French (DALF C1) · Arabic (Native) · Spanish (Beginner)
+- 🗣️ English (Fluent) · French (DALF C1) · Arabic (Native) · Spanish (Beginner)
 - 📫 Reach me: boughamzaimane@gmail.com · [LinkedIn](https://linkedin.com/in/imane-boughamza)
 
 <p align="center">
