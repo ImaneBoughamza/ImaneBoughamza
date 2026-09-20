@@ -15,7 +15,7 @@
 | Project | What it does | Stack |
 |---|---|---|
 | 🏥 [**PharmaMS**](https://github.com/ImaneBoughamza/PharmaMS) | AI-powered pharmacy platform with prescription analysis, RBAC & FIFO compliance | `Next.js` `Node.js` `MongoDB` `Redis` |
-| 🚗 [**IoT Driver Safety System**](https://github.com/ImaneBoughamza/iot-driver-safety) | Real-time embedded system detecting drowsiness, overspeeding & lane deviation | `C++` `ESP32-CAM` `NEO-6M GPS` |
+| 🚗 [**IoT Driver Safety System**](https://github.com/ImaneBoughamza/IOT-Driver-Safety-System) | Real-time embedded system detecting drowsiness, overspeeding & lane deviation | `C++` `ESP32-CAM` `NEO-6M GPS` |
 | ⛓️ [**Blockchain Auto Parts Marketplace**](https://github.com/ImaneBoughamza/auto-parts-marketplace) | VIN-based traceability marketplace with a fintech wallet | `React` `Node.js` `Elasticsearch` `Hyperledger Fabric` |
 
 ---
