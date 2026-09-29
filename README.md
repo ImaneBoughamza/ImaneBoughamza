@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  I love building systems where hardware, backend, and data all have to talk to each other correctly — from real-time IoT alerts to compliance-aware pharmacy platforms. Outside of code, you'll find me playing classical guitar or volunteering with Hand in Hand and Rotaract AUI.
+  I love building systems where hardware, backend, and data all have to talk to each other correctly, from real-time IoT alerts to compliance-aware pharmacy platforms. Outside of code, you'll find me playing classical guitar or volunteering with Hand in Hand and Rotaract AUI.
 </p>
 
 ---
