@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  Computer Science graduate (Al Akhawayn University, Computer Systems specialization) focused on building reliable, well-architected systems across the stack — from REST APIs and role-based access control to real-time embedded decision engines on resource-constrained hardware.
+  Computer Science graduate (Al Akhawayn University, Computer Systems specialization) focused on building reliable, well-architected systems across the stack. From REST APIs and role-based access control to real-time embedded decision engines on resource-constrained hardware.
 </p>
 
 ---
