@@ -1,5 +1,5 @@
 <h1 align="center">Imane Boughamza</h1>
-<h3 align="center">Full-Stack & Embedded Systems Engineer</h3>
+<h3 align="center">Software & Embedded Systems Engineer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Full-Stack+Development+(Next.js+%2F+Node.js);Embedded+Systems+%26+IoT+(C%2B%2B);Distributed+%26+Ledger-Based+Architectures" alt="Typing SVG" />
