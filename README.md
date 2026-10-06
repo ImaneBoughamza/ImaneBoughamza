@@ -80,6 +80,3 @@
 
 [LinkedIn](https://www.linkedin.com/in/imane-boughamza-524236266/) · boughamzaimane@gmail.com
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ImaneBoughamza&color=6C63FF&style=flat" alt="Profile views" />
-</p>
